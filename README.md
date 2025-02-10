@@ -5,6 +5,11 @@ The **Email RAG Assistant** is a Streamlit-based application that allows users t
 
 ![image](https://github.com/user-attachments/assets/94fa4b3e-caa6-42e9-bc21-3ee8ff865f3d)
 
+## How to use it
+First, you need to create your Gmail app password : https://myaccount.google.com/security 
+For that, you have to enable 2 step verification and then create app password : https://myaccount.google.com/apppasswords
+Then,  you just have to download ollama and choose your model. ***/!\*** It can be a bit greedy in consumption of token if you have a lot of emails. 
+
 
 ## Features
 - 📩 **Fetch Emails**: Connects to Gmail via IMAP and searches emails by keyword.
