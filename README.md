@@ -21,5 +21,6 @@ The **Email RAG Assistant** is a Streamlit-based application that allows users t
 - 🔄 Background email processing with auto-refresh.
 - 📊 Email sentiment analysis and summarization.
 
-🚀 **Built for privacy-conscious email analysis!**
+# Credits
 
+I used the repository of AllAboutAI-YT, link : https://github.com/AllAboutAI-YT/easy-local-rag
