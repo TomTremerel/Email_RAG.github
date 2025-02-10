@@ -31,4 +31,4 @@ Then,  you just have to download ollama and choose your model. ***/!\*** It can 
 
 ### Credits
 
-I used the repository of AllAboutAI-YT, link : https://github.com/AllAboutAI-YT/easy-local-rag
+I used the repository of AllAboutAI-YT, link : https://github.com/AllAboutAI-YT/easy-local-rag for email collector
