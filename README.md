@@ -3,7 +3,7 @@
 ## Overview
 The **Email RAG Assistant** is a Streamlit-based application that allows users to fetch, analyze, and query emails using **Retrieval-Augmented Generation (RAG)**. It integrates a **local Ollama model** for AI-powered email analysis and supports vector-based similarity search with **FAISS**.
 
-![image](https://github.com/user-attachments/assets/332c13d6-9800-4de8-8c40-3a4972c6a72e)
+![image](https://github.com/user-attachments/assets/94fa4b3e-caa6-42e9-bc21-3ee8ff865f3d)
 
 
 ## Features
